@@ -7,6 +7,10 @@ SecretiveSocial is a web application that allows users to share secrets anonymou
 
 ---
 
+# Preview
+
+![Preview](public/preview.png)
+
 ## Features
 
 - **User Authentication**: Users can register with a username and password, and existing users can log in securely.
