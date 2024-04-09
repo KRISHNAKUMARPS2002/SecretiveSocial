@@ -45,8 +45,7 @@ SecretiveSocial is a web application that allows users to share secrets anonymou
 
 ## Usage
 
-1. Start the server: npm start
-2. 
+1. Start the server: npm start 
 2. Open your browser and navigate to `http://localhost:3000` to access the application.
 
 ---
