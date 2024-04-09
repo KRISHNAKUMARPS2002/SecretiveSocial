@@ -18,4 +18,4 @@ SecretiveSocial is a web application that allows users to share secrets anonymou
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository:  https://github.com/KRISHNAKUMARPS2002/SecretiveSocial.git
